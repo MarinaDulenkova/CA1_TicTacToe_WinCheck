@@ -1,0 +1,10 @@
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA1_TicTacToe_CheckWin\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA1_TicTacToe_CheckWin\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA1_TicTacToe_CheckWin\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA1_TicTacToe_CheckWin\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA1_TicTacToe_CheckWin\TicTacToe\TicTacToe\obj\Debug\TicTacToe.fmMain.resources
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA1_TicTacToe_CheckWin\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA1_TicTacToe_CheckWin\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA1_TicTacToe_CheckWin\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA1_TicTacToe_CheckWin\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\Универ\Лабы\Комбинаторные алгоритмы\CA1_TicTacToe_CheckWin\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
